@@ -1,8 +1,8 @@
-name = "home"
+name = "lenovo"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "ef989fa24c8d4a31895438ceeef51250"				#KV数据库id
+id = "9e090fde16b046449bebff1ab5dd9c5a"				#KV数据库id
